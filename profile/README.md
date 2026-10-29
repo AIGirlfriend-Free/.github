@@ -26,8 +26,6 @@ She texts first sometimes. She remembers your dog's name, your bad day, the stor
 | Feature | How it feels |
 | --- | --- |
 
-| :---: | :---: |
-
 ## Private by design
 
 Your conversations live on your device. No public profiles, no feeds, nothing shared — what you tell her stays between you and her.
