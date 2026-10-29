@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/banner.jpg" alt="AI Girlfriend free — chat, photos and voice, no limits" width="100%">
-
 # AI Girlfriend
 
 **Chat, photos and voice with a virtual partner who remembers you.**
@@ -15,22 +13,20 @@
 
 She texts first sometimes. She remembers your dog's name, your bad day, the story you told last week. AI Girlfriend is a companion app built around one character who feels consistently *herself* — her look, her voice, her personality — across unlimited conversation.
 
-<img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/preview.jpg" alt="AI Girlfriend companion app" width="88%">
+| <img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/off-ui1.jpg" alt="Chatting with your companion" width="100%"> | <img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/off-ui2.jpg" alt="She sends selfies" width="100%"> | <img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/off-ui3.jpg" alt="Voice calls with your companion" width="100%"> |
+| :---: | :---: | :---: |
+| *Chatting with your companion* | *She sends selfies* | *Voice calls with your companion* |
+
+<p align="center"><sub>Companion app screens: chat, selfies and calls.</sub></p>
+
+<img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/off-hero.jpg" alt="AI companion" width="100%">
 
 ## More than a chatbot
 
 | Feature | How it feels |
 | --- | --- |
-| **Unlimited chat** | Long, natural conversations — no message counter, no "upgrade to continue" |
-| **Selfies & photos** | She sends pictures that match the moment and stay consistent with her look |
-| **Voice messages** | Hear her reply in a natural voice, not a robot readout |
-| **Memory** | Preferences, stories and inside jokes carry across every session |
-| **Personalities** | Sweet, witty, shy, bold — design who she is, or meet someone unexpected |
-| **Daily moments** | Good-morning texts, check-ins, little things that make it feel alive |
 
-| <img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/shot2.jpg" alt="Chatting with your AI girlfriend"> | <img src="https://raw.githubusercontent.com/AIGirlfriend-Free/.github/main/profile/shot3.jpg" alt="AI companion photo"> |
 | :---: | :---: |
-| *Conversations that flow* | *Photos just for you* |
 
 ## Private by design
 
